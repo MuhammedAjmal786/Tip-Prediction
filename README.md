@@ -18,6 +18,7 @@ This repository contains multiple implementations and analyses related to Diabet
 ├── 📂 strm      # Streamlit-based Diabetes Prediction app
 ├── 📂 gradi        # Gradio-based Diabetes Prediction app
 ├──  model         # Saved model using pickle
+├──  Lenco         # Saved LabelEncoder using pickle
 ├──  features        # Preprocessed Dataset
 ├── 📜 requirements.txt  # Dependencies
 ├── 📜 LICENSE           # License file
