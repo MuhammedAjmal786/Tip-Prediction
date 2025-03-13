@@ -44,4 +44,5 @@ columns_list = [col for col in df.columns if col != 'Unnamed: 0']
 new_data=new_data.reindex(columns=columns_list,fill_value=0)
 
 prediction=model.predict(new_data)[0]
-st.write('Predicted Tip:',prediction)
+if st.button ('Predict'):
+     st.write('Predicted Tip:',prediction)
