@@ -29,8 +29,8 @@ This repository contains multiple implementations and analyses related to Diabet
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MuhammedAjmal786/Tip-Prediction.git
-   cd Diabetes-Prediction
+   git clone https://github.com/MuhammedAjmal786/Tip-Prediction. git
+   cd Tips-Prediction
    ```
 
 2. Install dependencies:
@@ -40,17 +40,13 @@ This repository contains multiple implementations and analyses related to Diabet
    ```
 
 3. Run the applications:
-   - **EDA**: Run Jupyter notebooks inside the `eda` folder.
+   - **EDA**: Run Jupyter notebooks inside the `tips` folder.
    - **Streamlit App**:
      ```bash
      cd strm
      streamlit run strm.py
      ```
-   - **Gradio App**:
-     ```bash
-     cd gradi
-     python gradi.ipynb
-     ```
+   - **Gradio App**: Run Jupyter notebooks inside the `gradi` folder.
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to submit issues or pull requests.
