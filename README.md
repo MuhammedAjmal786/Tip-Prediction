@@ -15,8 +15,8 @@ This repository contains multiple implementations and analyses related to Tips p
 ## 📂 Project Structure
 ```
 ├── 📂 tips               # Exploratory Data Analysis (EDA) scripts
-├── 📂 strm      # Streamlit-based Diabetes Prediction app
-├── 📂 gradi        # Gradio-based Diabetes Prediction app
+├── 📂 strm      # Streamlit-based Tips Prediction app
+├── 📂 gradi        # Gradio-based Tips Prediction app
 ├──  model         # Saved model using pickle
 ├──  Lenco         # Saved LabelEncoder using pickle
 ├──  features        # Preprocessed Dataset
