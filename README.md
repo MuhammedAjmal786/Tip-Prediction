@@ -1,10 +1,10 @@
 # Tips Prediction and Analysis
 
-This repository contains multiple implementations and analyses related to Diabetes prediction, including:
+This repository contains multiple implementations and analyses related to Tips prediction, including:
 
-- **Exploratory Data Analysis (EDA)** of a Diabetes dataset.
-- **Streamlit Web Application** for Diabetes Prediction.
-- **Gradio Interface** for Diabetes Prediction.
+- **Exploratory Data Analysis (EDA)** of a Tips dataset.
+- **Streamlit Web Application** for Tips Prediction.
+- **Gradio Interface** for Tips Prediction.
 
 ## 📌 Features
 - Perform EDA to understand the dataset and key patterns.
